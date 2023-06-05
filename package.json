@@ -2,7 +2,7 @@
   "name": "h2o-hydro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://lucasnatoli.github.io/ifarm",
+  "homepage": "https://lucasnatoli.github.io/iFarm/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
